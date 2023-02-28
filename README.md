@@ -1,5 +1,5 @@
 # MindChakra
-A mental health app or website can be an effective tool for promoting mental health awareness and providing support for individuals dealing with mental health issues.
+(lOREM) A mental health app or website can be an effective tool for promoting mental health awareness and providing support for individuals dealing with mental health issues.
 With the increasing prevalence of mental health issues worldwide,
 it is important for individuals to access information and resources to help them manage their mental health.
 
