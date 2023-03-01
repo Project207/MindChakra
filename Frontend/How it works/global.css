@@ -1,0 +1,36 @@
+:root {
+  /* fonts */
+  --font-poppins: Poppins;
+
+  /* font sizes */
+  --font-size-base: 0.88rem;
+  --font-size-lg: 1rem;
+  --font-size-xl: 1.13rem;
+  --font-size-2xl: 2.25rem;
+
+  /* Colors */
+  --color-white: #fff;
+  --color-gray-100: #212529;
+  --color-whitesmoke: #f6f8f9;
+  --color-slateblue: #6354b2;
+  --color-chocolate-100: #f47d31;
+  --color-darkslateblue-100: #2f275c;
+  --color-gainsboro: #dfdfdf;
+
+  /* Gaps */
+  --gap-md: 0.47rem;
+
+  /* Paddings */
+  --padding-2xs: 0.38rem;
+  --padding-xs: 0.69rem;
+  --padding-sm: 0.94rem;
+  --padding-md: 1.25rem;
+  --padding-lg: 1.31rem;
+  --padding-xl: 3.47rem;
+
+  /* border radiuses */
+  --br-xs: 16px;
+  --br-sm: 25px;
+  --br-md: 44.5px;
+  --br-lg: 60px;
+}
